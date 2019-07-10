@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dog Breed Predictor</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_image">Image</string>
+</resources>
